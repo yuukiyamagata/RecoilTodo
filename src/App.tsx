@@ -17,3 +17,6 @@ function App() {
 }
 
 export default App
+
+
+// Recoil Rootで囲った部分にRecoilを適用させることができる
